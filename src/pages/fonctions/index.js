@@ -1,6 +1,6 @@
 export default function Fonctions() {
     return (
-        <section><h2>Déclaration d'une fonction</h2><div class="compare-code" data-v-1f4e45ce=""><div class="compare-code__col" data-v-1f4e45ce=""><div class="compare-code__title" data-v-1f4e45ce="">JavaScript</div><pre class="language-js" data-v-1f4e45ce=""><code class="language-js"><span class="token comment">// Le mot clé function indique la déclaration</span>
+        <section><h3>Déclaration d'une fonction</h3><div class="compare-code" data-v-1f4e45ce=""><div class="compare-code__col" data-v-1f4e45ce=""><div class="compare-code__title" data-v-1f4e45ce="">JavaScript</div><pre class="language-js" data-v-1f4e45ce=""><code class="language-js"><span class="token comment">// Le mot clé function indique la déclaration</span>
 <span class="token comment">// de la fonction nommée addition.</span>
 <span class="token comment">// Cette fonction a 2 paramètres.</span>
 <span class="token comment">// Les instructions de la fonction sont entre les 2 accolades.</span>
