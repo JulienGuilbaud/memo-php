@@ -33,9 +33,12 @@ body {
   }
   
   .compare-code__col {
-    flex: 1;
+   display: flex;
+   flex-direction: column;
     margin: 0 0.625rem;
     border-radius: 0.25rem;
+    
+    flex-wrap: wrap;
     
   }
   
@@ -78,7 +81,7 @@ body {
     color: #d73a49;
   }
   
-  /* Style for console.log output */
+  
   console.log {
     color: #d73a49;
     font-weight: bold;
