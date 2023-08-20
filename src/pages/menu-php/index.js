@@ -40,9 +40,17 @@ export default function MenuPhp() {
 
             <nav>
                 <ul>
-                    <li> <Link to={"variables"}>variables</Link> </li>
-                    <li> <Link to={"class"}>class</Link> </li>
-                    <li> <Link to={"fonction"}>fonction</Link> </li>
+                    <li> <Link to={"variables"}>Les variables</Link> </li>
+                    <li> <Link to={"chaines"}>Les chaines de caractères</Link> </li>
+                    <li> <Link to={"operations"}>Les opérations arithmétiques</Link> </li>
+                    <li> <Link to={"conditions"}>Les conditions</Link> </li>
+                    <li> <Link to={"tableaux"}>Les tableaux</Link> </li>
+                    <li> <Link to={"boucles"}>Les boucles</Link> </li>
+                    <li> <Link to={"fonctions"}>Les fonctions</Link> </li>
+                    <li> <Link to={"classes"}>Les classes & objets</Link> </li>
+                    <li> <Link to={"heritage"}>L'héritage</Link> </li>
+                    <li> <Link to={"interfaces"}>Les interfaces</Link> </li>
+                    <li> <Link to={"exceptions"}>Les exceptions</Link> </li>
                 </ul>
             </nav>
 
